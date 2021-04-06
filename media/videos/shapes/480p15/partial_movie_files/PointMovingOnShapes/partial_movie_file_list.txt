@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/workspace/manim_gui2/media/videos/shapes/480p15/partial_movie_files/PointMovingOnShapes/3163782288_2947758724_3045458474.mp4'
